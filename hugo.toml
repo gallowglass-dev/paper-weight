@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://d33ae5lzhx8nsn.cloudfront.net/'
 languageCode = 'en-us'
 title = 'Paper Weight'
 theme = 'paper'
