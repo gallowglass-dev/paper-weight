@@ -15,6 +15,7 @@ categories = [
     "Case Study",
     "Game Development",
 ]
+series = []
 +++
 
 ## Outlast 2: Visual Language in Directed Exploration
